@@ -400,6 +400,16 @@ main {
     align-items: flex-start;
     margin-top: 2em;
   }
+  
+  .about__contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn--outline {
+  margin-right: 1em;
+}
 
   .footer {
     padding: 2em;
